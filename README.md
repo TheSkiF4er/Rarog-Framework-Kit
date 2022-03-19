@@ -18,7 +18,3 @@ ____
 ![](https://img.shields.io/github/stars/TheSkiF4er/Rarog-Framework-Kit)
 ![](https://img.shields.io/badge/made%20by-SkiF4er-red)
 ![](https://img.shields.io/badge/Open--Source-Software-yellowgreen)
-![]()
-![]()
-![]()
-![]()
