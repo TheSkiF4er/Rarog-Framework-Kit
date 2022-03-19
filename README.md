@@ -3,12 +3,13 @@ ____
 * Тип: Фреймворк и свободное программное обеспечение;
 * Автор: SkiF4er;
 * Разработчики: SkiF4er;
-* Написан: JavaScript, CSS, Python, HTML и Sass;
+* Написан: JavaScript, CSS, Python, HTML и PHP;
 * Операционная система: Кроссплатформенность;
 * Лицензия: Creative Commons Attribution-ShareAlike 4.0 Всемирная (CC BY-SA 4.0).
 ____
-* Telegram Blog - https://t.me/sf4blog
-* Telegram Chat - https://t.me/sf4chat
+* Блог - https://t.me/sf4blog
+* Обсуждение - https://t.me/sf4chat
+* Документация - https://gitbook.com/rarog-framework-kit
 ____
 ![](https://github-readme-stats.vercel.app/api?username=theskif4er)
 ____
