@@ -3,7 +3,7 @@ ____
 * Тип: Фреймворк и свободное программное обеспечение;
 * Автор: SkiF4er;
 * Разработчики: SkiF4er;
-* Написан: JavaScript, CSS, Python, HTML и PHP;
+* Написан: JavaScript, CSS, HTML и PHP;
 * Операционная система: Кроссплатформенность;
 * Лицензия: Creative Commons Attribution-ShareAlike 4 Всемирная (CC BY-SA 4.0).
 ____
