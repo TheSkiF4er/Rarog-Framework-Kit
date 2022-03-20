@@ -5,7 +5,7 @@ ____
 * Разработчики: SkiF4er;
 * Написан: JavaScript, CSS, Python, HTML и PHP;
 * Операционная система: Кроссплатформенность;
-* Лицензия: Creative Commons Attribution-ShareAlike 4.0 Всемирная (CC BY-SA 4.0).
+* Лицензия: Creative Commons Attribution-ShareAlike 4 Всемирная (CC BY-SA 4.0).
 ____
 * Блог - https://t.me/sf4blog
 * Обсуждение - https://t.me/sf4chat
@@ -19,3 +19,5 @@ ____
 ![](https://img.shields.io/github/stars/TheSkiF4er/Rarog-Framework-Kit)
 ![](https://img.shields.io/badge/made%20by-SkiF4er-red)
 ![](https://img.shields.io/badge/Open--Source-Software-yellowgreen)
+![](https://img.shields.io/badge/Donations-0₿-red)
+![](https://img.shields.io/badge/license-CC%20BY--SA%204.0-brightgreen)
