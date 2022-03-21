@@ -37,4 +37,17 @@ function Truncation ($p1, $p2) {
  return implode(" ", $words).' '.$last.'...';
 };
 
+function Error403 ($p1) {
+ if (filesize("logs_403.txt")<$p1) {
+  $fh=fopen("logs_403.txt","a+");
+  flock($fh,LOCK_EX);
+  fseek($fh,0);
+  while (!feof($fh)) $str.=fread($fh,8192);
+  $str.=date("H:i:s d m Y")." | ".htmlspecialchars($_SERVER['REMOTE_ADDR']." | ".
+  $_SERVER['HTTP_USER_AGENT']." | ".$_SERVER['REQUEST_URI']."\r\n");
+  ftruncate($fh,0);
+  fwrite($fh,$str);
+  flock($fh,LOCK_UN);
+  fclose($fh);
+};
 ?>
