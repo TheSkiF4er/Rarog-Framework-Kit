@@ -14,5 +14,14 @@
 ============================================================================
 */
 <?
+session_start();
 
+function AntiFakeAppeals ($p1 = '0,0,0', $p2 = '3.5') {
+ $time=microtime(1);
+ if (!isset($_SESSION["arr_time"])) $_SESSION["arr_time"]=array($p1);
+ $min_time=min($_SESSION["arr_time"]);
+ if ($time-$min_time < $p2) die("Вы слишком часто обращаетесь к страничкам сайта!");
+ $min_index=array_search($min_time,$_SESSION["arr_time"]);
+ $_SESSION["arr_time"][$min_index]=$time;
+};
 ?>
