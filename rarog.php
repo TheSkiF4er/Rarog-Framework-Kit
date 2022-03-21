@@ -24,7 +24,6 @@ function AntiFakeAppeals ($p1 = '0,0,0', $p2 = '3.5') {
  $min_index=array_search($min_time,$_SESSION["arr_time"]);
  $_SESSION["arr_time"][$min_index]=$time;
 };
-?>
 
 function Truncation ($p1, $p2) {
  $str = substr($p1, 0, $p2-2);
@@ -37,3 +36,5 @@ function Truncation ($p1, $p2) {
  }
  return implode(" ", $words).' '.$last.'...';
 };
+
+?>
