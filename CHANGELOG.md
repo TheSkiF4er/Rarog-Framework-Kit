@@ -33,6 +33,4 @@
 - Создана лицензия проекта в файле 'LICENSE. md'.
 
 Неизданное: https://github.com/TheSkiF4er/Rarog-Framework-Kit
-<br>0.0.3:
-<br>0.0.2:
-<br>0.0.1: 
+<br>0.0.5:
