@@ -32,7 +32,7 @@
 - Созданы файлы CSS, HTML, JS и PHP проекта.
 - Создана лицензия проекта в файле 'LICENSE. md'.
 
-[Неизданный]: 
+[Неизданный]: https://github.com/TheSkiF4er/Rarog-Framework-Kit
 [0.0.3]:
 [0.0.2]:
 [0.0.1]: 
