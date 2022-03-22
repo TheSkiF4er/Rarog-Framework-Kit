@@ -13,21 +13,37 @@
  Внешнее подключение: https://skif4er.ru/osp/rarogjs
 ============================================================================
 */
-function Translit () {
- var res = '';
- var text = document.getElementById('text').value;
- var transl = {А:'A', а:'a', Б:'B', б:'b', В:'V', в:'v', Г:'G', г:'g',
- Д:'D', д:'d', Е:'E', е:'e', Ё:'Yo', ё:'yo', Ж:'Zh', ж:'zh', З:'Z', з:'z',
- И:'I', и:'i', Й:'J', й:'j', К:'K', к:'k', Л:'L', л:'l', М:'M', м:'m',
- Н:'N', н:'n', О:'O', о:'o', П:'P', п:'p', Р:'R', р:'r', С:'S', с:'s',
- Т:'T', т:'t', У:'U', у:'u', Ф:'F', ф:'f', Х:'X', х:'x', Ц:'Cz', ц:'cz',
- Ч:'Ch', ч:'ch', Ш:'Sh', ш:'sh', Щ:'Shh', щ:'shh', Ъ:'"', ъ:'"', Ы:'Y\'', ы:'y\'',
- Ь:'\'', ь:'\'', Э:'E\'', э:'e\'', Ю:'Yu', ю:'yu', Я:'Ya', я:'ya', ' ':'_'};
- for(i=0;i<text.length;i++) {
-  if(transl[text[i]]!=undefined) res += transl[text[i]];
-  else res += text[i];
- }
- res = res.replace(/Cz(?=i|e|y|j|I|E|Y|J)/g, "C");
- res = res.replace(/cz(?=i|e|y|j|I|E|Y|J)/g, "c");
- document.getElementById('text').value = res;
+function clock() {
+var d = new Date();
+var day = d.getDate();
+var hours = d.getHours();
+var minutes = d.getMinutes();
+var seconds = d.getSeconds();
+
+month=new Array("января", "февраля", "марта", "апреля", "мая", "июня",
+"июля", "августа", "сентября", "октября", "ноября", "декабря");
+days=new Array("Воскресенье", "Понедельник", "Вторник", "Среда",
+"Четверг", "Пятница", "Суббота");
+
+if (day <= 9) day = "0" + day;
+if (hours <= 9) hours = "0" + hours;
+if (minutes <= 9) minutes = "0" + minutes;
+if (seconds <= 9) seconds = "0" + seconds;
+
+date_date = day + " " + month[d.getMonth()] + " " + d.getFullYear() + " г. (" +
+days[d.getDay()] + ")";
+date_time = hours + ":" + minutes + ":" + seconds;
+
+if (document.layers) {
+ document.layers.date.document.write(date_time);
+ document.layers.date.document.close();
+ document.layers.time.document.write(date_time);
+ document.layers.time.document.close();
 }
+else {
+ document.getElementById("date").innerHTML = date_date;
+ document.getElementById("time").innerHTML = date_time;
+}
+ setTimeout("clock()", 1000);
+}
+clock();
