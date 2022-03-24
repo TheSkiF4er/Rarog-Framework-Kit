@@ -29,7 +29,7 @@ ____
 <br>Рарог изначально был создан как один из компонентов CEK 2, который упрощал работу с созданием пользовательских шаблонов. После его перевыпуска SkiF4er'ом в Open-Source Project, проект сменил задачу с упрощения создания шаблонов для CEK 2 на упрощение создание веб-сайтов и веб-приложений, но все равно вошёл в состав компонентов CEK 3.
 ____
 ## Использование
-Документация - 
+Документация - https://github.com/TheSkiF4er/Rarog-Framework-Kit/wiki
 ____
 ## Установка
 Рарог предоставляет два варианта установки, локальное и удалённое подключение.
@@ -71,9 +71,9 @@ ____
 ?>
 ```
 ## Список изменений
-**[GitHub Changelog] (https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/CHANGELOG.md)**
+**[GitHub Changelog](https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/CHANGELOG.md)**
 ____
 ## Лицензия
-**[GitHub License] (https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/LICENSE.md)**
+**[GitHub License](https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/LICENSE.md)**
 ____
 ![](https://github-readme-stats.vercel.app/api?username=theskif4er)
