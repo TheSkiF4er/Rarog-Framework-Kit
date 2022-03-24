@@ -11,7 +11,7 @@ ____
 ![](https://img.shields.io/badge/license-cc%20by--sa%204.0-brightgreen)
 ____
 ## Демонстрация
-Cajeer Engine Kit 2 - https://cajeer.ru/csp/cek/demo/ [УСТАРЕЛО]
+Cajeer Engine Kit 2 - https://cajeer.ru/csp/cek/demo/ **[УСТАРЕЛО]**
 <br>Cajeer Engine Kit 3 - https://www.cajeer.com/cek/demo/
 ____
 ## Поддержка и вклады в проект
