@@ -34,17 +34,17 @@ ____
 ```html
 <html>
  <head>
-  <link href="css/rarog.css" rel="stylesheet">
+  <link href="css/rarog.min.css" rel="stylesheet">
  </head>
  <body>
-  <script type="text/javascript" src="js/rarog.js"></script>
+  <script type="text/javascript" src="js/rarog.min.js"></script>
  </body>
 </html>
 ```
 <br>**PHP:**
 ```php
 <?php
- include 'skin/rarog.php';
+ include 'skin/rarog.min.php';
 ?>
 ```
 ### Удалённое подключение
@@ -66,7 +66,7 @@ ____
  include 'https://skif4er.ru/osp/rarogphp';
 ?>
 ```
-
+##
 
 
 
