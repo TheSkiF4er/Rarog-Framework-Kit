@@ -19,24 +19,58 @@ ____
 ____
 ## Описание
 **Набор Рарог Фреймворка** - это свободный набор инструментов для создания веб-сайтов и веб-приложений.
-<br>Рарог разрабатывался Cajeer 404 и предназначался для Cajeer Engine Kit 2, но после объявления о прекращении разработки CEK 2 и передачи его в Cajeer SoftWare, проект Рарог был заброшен. Cajeer SoftWare приняло решение о выпуске Cajeer Engine Kit 3 в Open-Source Software и в тот же момент, разработчик всех версий CEK, SkiF4er принимает решение о возрождении Рарога и создание его в виде личного Open-Source Project.
+____
+## О проекте
+Рарог разрабатывался Cajeer 404 и предназначался для Cajeer Engine Kit 2, но после объявления о прекращении разработки CEK 2 и передачи его в Cajeer SoftWare, проект Рарог был заброшен. Cajeer SoftWare приняло решение о выпуске Cajeer Engine Kit 3 в Open-Source Software и в тот же момент, разработчик всех версий CEK, SkiF4er принимает решение о возрождении Рарога и создание его в виде личного Open-Source Project.
 <br>Рарог изначально был создан как один из компонентов CEK 2, который упрощал работу с созданием пользовательских шаблонов. После его перевыпуска SkiF4er'ом в Open-Source Project, проект сменил задачу с упрощения создания шаблонов для CEK 2 на упрощение создание веб-сайтов и веб-приложений, но все равно вошёл в состав компонентов CEK 3.
 ____
 ## Использование
-Рарог предоставляет два варианта использования, локальное и удалённое подключение.
-### Локальное подключение
 
-### Удалённое подключение
-![Пример подключения в HTML](https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/rarog.html)
+____
+## Установка
+Рарог предоставляет два варианта установки, локальное и удалённое подключение.
+### Локальное подключение
 <br>**CSS и JS:**
 ```html
-
+<html>
+ <head>
+  <link href="css/rarog.css" rel="stylesheet">
+ </head>
+ <body>
+  <script type="text/javascript" src="js/rarog.js"></script>
+ </body>
+</html>
 ```
 <br>**PHP:**
 ```php
-
+<?php
+ include 'skin/rarog.php';
+?>
 ```
-____
+### Удалённое подключение
+**[Базовая структура HTML](https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/rarog.html)**
+<br>**CSS и JS:**
+```html
+<html>
+ <head>
+  <link href="https://skif4er.ru/osp/rarogcss" rel="stylesheet">
+ </head>
+ <body>
+  <script type="text/javascript" src="https://skif4er.ru/osp/rarogjs"></script>
+ </body>
+</html>
+```
+<br>**PHP:**
+```php
+<?php
+ include 'https://skif4er.ru/osp/rarogphp';
+?>
+```
+
+
+
+
+
 * Тип: Фреймворк и свободное программное обеспечение;
 * Автор: SkiF4er;
 * Разработчики: SkiF4er;
