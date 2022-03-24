@@ -15,7 +15,11 @@ Cajeer Engine Kit 2 - https://cajeer.ru/csp/cek/demo/ [УСТАРЕЛО]
 <br>Cajeer Engine Kit 3 - https://www.cajeer.com/cek/demo/
 ____
 ## Поддержка и вклады в проект
-
+### Поддержка
+* Отсутствует
+### Вклады
+* Блог - https://t.me/sf4blog
+* Обсуждение - https://t.me/sf4chat
 ____
 ## Описание
 **Набор Рарог Фреймворка** - это свободный набор инструментов для создания веб-сайтов и веб-приложений.
@@ -25,7 +29,7 @@ ____
 <br>Рарог изначально был создан как один из компонентов CEK 2, который упрощал работу с созданием пользовательских шаблонов. После его перевыпуска SkiF4er'ом в Open-Source Project, проект сменил задачу с упрощения создания шаблонов для CEK 2 на упрощение создание веб-сайтов и веб-приложений, но все равно вошёл в состав компонентов CEK 3.
 ____
 ## Использование
-
+Документация - 
 ____
 ## Установка
 Рарог предоставляет два варианта установки, локальное и удалённое подключение.
@@ -66,20 +70,10 @@ ____
  include 'https://skif4er.ru/osp/rarogphp';
 ?>
 ```
-##
-
-
-
-
-* Тип: Фреймворк и свободное программное обеспечение;
-* Автор: SkiF4er;
-* Разработчики: SkiF4er;
-* Написан: JavaScript, CSS, HTML и PHP;
-* Операционная система: Кроссплатформенность;
-* Лицензия: Creative Commons Attribution-ShareAlike 4 Всемирная (CC BY-SA 4.0).
+## Список изменений
+**[GitHub Changelog] (https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/CHANGELOG.md)**
 ____
-* Блог - https://t.me/sf4blog
-* Обсуждение - https://t.me/sf4chat
-* Документация - https://gitbook.com/rarog-framework-kit
+## Лицензия
+**[GitHub License] (https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/LICENSE.md)**
 ____
 ![](https://github-readme-stats.vercel.app/api?username=theskif4er)
