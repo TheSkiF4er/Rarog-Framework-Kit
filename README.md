@@ -12,7 +12,7 @@ ____
 ____
 ## Демонстрация
 Cajeer Engine Kit 2 - https://cajeer.ru/csp/cek/demo/ [УСТАРЕЛО]
-Cajeer Engine Kit 3 - https://www.cajeer.com/cek/demo/
+<br>Cajeer Engine Kit 3 - https://www.cajeer.com/cek/demo/
 ____
 ## Поддержка и вклады в проект
 
@@ -27,8 +27,15 @@ ____
 ### Локальное подключение
 
 ### Удалённое подключение
-![Пример подключения в HTML]()
+![Пример подключения в HTML](https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/rarog.html)
+<br>**CSS и JS:**
+```html
 
+```
+<br>**PHP:**
+```php
+
+```
 ____
 * Тип: Фреймворк и свободное программное обеспечение;
 * Автор: SkiF4er;
