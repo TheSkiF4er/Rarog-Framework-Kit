@@ -1,3 +1,14 @@
+# Набор Рарог Фреймворка
+
+![](https://img.shields.io/badge/downloads-0-green)
+![](https://img.shields.io/badge/made%20by-skif4er-blue)
+![](https://img.shields.io/badge/software-open--source-yellowgreen)
+![](https://img.shields.io/github/issues/TheSkiF4er/Rarog-Framework-Kit)
+![](https://img.shields.io/github/forks/TheSkiF4er/Rarog-Framework-Kit)
+![](https://img.shields.io/github/stars/TheSkiF4er/Rarog-Framework-Kit)
+![](https://img.shields.io/badge/donations-0₿-red)
+![](https://img.shields.io/badge/license-cc%20by--sa%204.0-brightgreen)
+![](https://yapx.ru/v/RSv5X)
 **Набор Рарог Фреймворка** - это свободный набор инструментов для создания сайтов и веб-приложений.
 ____
 * Тип: Фреймворк и свободное программное обеспечение;
@@ -12,12 +23,3 @@ ____
 * Документация - https://gitbook.com/rarog-framework-kit
 ____
 ![](https://github-readme-stats.vercel.app/api?username=theskif4er)
-____
-![](https://img.shields.io/badge/downloads-0-green)
-![](https://img.shields.io/github/issues/TheSkiF4er/Rarog-Framework-Kit)
-![](https://img.shields.io/github/forks/TheSkiF4er/Rarog-Framework-Kit)
-![](https://img.shields.io/github/stars/TheSkiF4er/Rarog-Framework-Kit)
-![](https://img.shields.io/badge/made%20by-skif4er-red)
-![](https://img.shields.io/badge/open--source-software-yellowgreen)
-![](https://img.shields.io/badge/donations-0₿-red)
-![](https://img.shields.io/badge/license-cc%20by--sa%204.0-brightgreen)
