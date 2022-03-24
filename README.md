@@ -72,7 +72,6 @@ ____
 ```
 ## Список изменений
 **[GitHub Changelog](https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/CHANGELOG.md)**
-____
 ## Лицензия
 **[GitHub License](https://github.com/TheSkiF4er/Rarog-Framework-Kit/blob/main/LICENSE.md)**
 ____
