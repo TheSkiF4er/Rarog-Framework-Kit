@@ -213,6 +213,21 @@ table {
 .cursor-nwresize {
  cursor: nw-resize;
 }
+.direction-ltr {
+ direction: ltr;
+}
+.direction-rtl {
+ direction: rtl;
+}
+.direction-inherit {
+ direction: inherit;
+}
+.emptycells-show {
+ empty-cells: show;
+}
+.emptycells-hide {
+ empty-cells: hide;
+}
 
 background
 background-attachment
@@ -264,9 +279,7 @@ columns
 content
 counter-increment
 counter-reset
-direction
 display
-empty-cells
 float
 font
 font-family
