@@ -48,13 +48,175 @@ table {
  box-sizing: border-box;
 }
 
-. {
- 
+.color-white {
+ color: #ffffff;
 }
+.color-silver {
+ color: #c0c0c0;
+}
+.color-gray {
+ color: #808080;
+}
+.color-black {
+ color: #000000;
+}
+.color-maroon {
+ color: #800000;
+}
+.color-red {
+ color: #ff0000;
+}
+.color-orange {
+ color: #ffa500;
+}
+.color-yellow {
+ color: #ffff00;
+}
+.color-olive {
+ color: #808000;
+}
+.color-lime {
+ color: #00ff00;
+}
+.color-green {
+ color: #008000;
+}
+.color-aqua {
+ color: #00ffff;
+}
+.color-blue {
+ color: #0000ff;
+}
+.color-navy {
+ color: #000080;
+}
+.color-teal {
+ color: #008080;
+}
+.color-fuchsia {
+ color: #ff00ff;
+}
+.color-purple {
+ color: #800080;
+}
+.color-inherit {
+ color: inherit;
+}
+.bg-color-white {
+ color: #ffffff;
+}
+.bg-color-silver {
+ color: #c0c0c0;
+}
+.bg-color-gray {
+ color: #808080;
+}
+.bg-color-black {
+ color: #000000;
+}
+.bg-color-maroon {
+ color: #800000;
+}
+.bg-color-red {
+ color: #ff0000;
+}
+.bg-color-orange {
+ color: #ffa500;
+}
+.bg-color-yellow {
+ color: #ffff00;
+}
+.bg-color-olive {
+ color: #808000;
+}
+.bg-color-lime {
+ color: #00ff00;
+}
+.bg-color-green {
+ color: #008000;
+}
+.bg-color-aqua {
+ color: #00ffff;
+}
+.bg-color-blue {
+ color: #0000ff;
+}
+.bg-color-navy {
+ color: #000080;
+}
+.bg-color-teal {
+ color: #008080;
+}
+.bg-color-fuchsia {
+ color: #ff00ff;
+}
+.bg-color-purple {
+ color: #800080;
+}
+.bg-color-transparent {
+ color: transparent;
+}
+.bg-color-inherit {
+ color: inherit;
+}
+.cursor-auto {
+ cursor: auto;
+}
+.cursor-inherit {
+ cursor: inherit;
+}
+.cursor-default {
+ cursor: default;
+}
+.cursor-crosshair {
+ cursor: crosshair;
+}
+.cursor-help {
+ cursor: help;
+}
+.cursor-move {
+ cursor: move;
+}
+.cursor-pointer {
+ cursor: pointer;
+}
+.cursor-progress {
+ cursor: progress;
+}
+.cursor-text {
+ cursor: text;
+}
+.cursor-wait {
+ cursor: wait;
+}
+.cursor-nresize {
+ cursor: n-resize;
+}
+.cursor-neresize {
+ cursor: ne-resize;
+}
+.cursor-eresize {
+ cursor: e-resize;
+}
+.cursor-seresize {
+ cursor: se-resize;
+}
+.cursor-sresize {
+ cursor: s-resize;
+}
+.cursor-swresize {
+ cursor: sw-resize;
+}
+.cursor-wresize {
+ cursor: w-resize;
+}
+.cursor-nwresize {
+ cursor: nw-resize;
+}
+
 background
 background-attachment
 background-clip
-background-color
 background-image
 background-origin
 background-position
@@ -94,7 +256,6 @@ box-sizing
 caption-side
 clear
 clip
-color
 column-count
 column-gap
 column-rule
@@ -103,7 +264,6 @@ columns
 content
 counter-increment
 counter-reset
-cursor
 direction
 display
 empty-cells
