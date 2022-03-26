@@ -479,6 +479,219 @@ table {
 .liststyletype-inherit {
  list-style-type: inherit;
 }
+.pagebreakafter-always {
+ page-break-after: always;
+}
+.pagebreakafter-auto {
+ page-break-after: auto;
+}
+.pagebreakafter-avoid {
+ page-break-after: avoid;
+}
+.pagebreakafter-left {
+ page-break-after: left;
+}
+.pagebreakafter-right {
+ page-break-after: right;
+}
+.pagebreakafter-inherit {
+ page-break-after: inherit;
+}
+.pagebreakbefore-always {
+ page-break-before: always;
+}
+.pagebreakbefore-auto {
+ page-break-before: auto;
+}
+.pagebreakbefore-avoid {
+ page-break-before: avoid;
+}
+.pagebreakbefore-left {
+ page-break-before: left;
+}
+.pagebreakbefore-right {
+ page-break-before: right;
+}
+.pagebreakbefore-inherit {
+ page-break-before: inherit;
+}
+.pagebreakinside-auto {
+ page-break-inside: auto;
+}
+.pagebreakinside-avoid {
+ page-break-inside: avoid;
+}
+.pagebreakinside-inherit {
+ page-break-inside: inherit;
+}
+.position-absolute {
+ position: absolute;
+}
+.position-fixed {
+ position: fixed;
+}
+.position-relative {
+ position: relative;
+}
+.position-static {
+ position: static;
+}
+.position-inherit {
+ position: inherit;
+}
+.captionside-top {
+ caption-side: top;
+}
+.captionside-bottom {
+ caption-side: bottom;
+}
+.captionside-left {
+ caption-side: left;
+}
+.captionside-right {
+ caption-side: right;
+}
+.clear-none {
+ clear: none;
+}
+.clear-left {
+ clear: left;
+}
+.clear-right {
+ clear: right;
+}
+.clear-both {
+ clear: both;
+}
+.clear-inherit {
+ clear: inherit;
+}
+.outlinecolor-invert {
+ outline-color: invert;
+}
+.outlinecolor-white {
+ outline-color: #ffffff;
+}
+.outlinecolor-silver {
+ outline-color: #c0c0c0;
+}
+.outlinecolor-gray {
+ outline-color: #808080;
+}
+.outlinecolor-black {
+ outline-color: #000000;
+}
+.outlinecolor-maroon {
+ outline-color: #800000;
+}
+.outlinecolor-red {
+ outline-color: #ff0000;
+}
+.outlinecolor-orange {
+ outline-color: #ffa500;
+}
+.outlinecolor-yellow {
+ outline-color: #ffff00;
+}
+.outlinecolor-olive {
+ outline-color: #808000;
+}
+.outlinecolor-lime {
+ outline-color: #00ff00;
+}
+.outlinecolor-green {
+ outline-color: #008000;
+}
+.outlinecolor-aqua {
+ outline-color: #00ffff;
+}
+.outlinecolor-blue {
+ outline-color: #0000ff;
+}
+.outlinecolor-navy {
+ outline-color: #000080;
+}
+.outlinecolor-teal {
+ outline-color: #008080;
+}
+.outlinecolor-fuchsia {
+ outline-color: #ff00ff;
+}
+.outlinecolor-purple {
+ outline-color: #800080;
+}
+.outlinecolor-inherit {
+ outline-color: inherit;
+}
+.outlinestyle-none {
+ outline-style: none;
+}
+.outlinestyle-dotted {
+ outline-style: dotted;
+}
+.outlinestyle-dashed {
+ outline-style: dashed;
+}
+.outlinestyle-solid {
+ outline-style: solid;
+}
+.outlinestyle-double {
+ outline-style: double;
+}
+.outlinestyle-groove {
+ outline-style: groove;
+}
+.outlinestyle-ridge {
+ outline-style: ridge;
+}
+.outlinestyle-inset {
+ outline-style: inset;
+}
+.outlinestyle-outset {
+ outline-style: outset;
+}
+.outlinestyle-inherit {
+ outline-style: inherit;
+}
+.overflow-auto {
+ overflow: auto;
+}
+.overflow-hidden {
+ overflow: hidden;
+}
+.overflow-scroll {
+ overflow: scroll;
+}
+.overflow-visible {
+ overflow: visible;
+}
+.overflow-inherit {
+ overflow: inherit;
+}
+.overflowx-auto {
+ overflow-x: auto;
+}
+.overflowx-hidden {
+ overflow-x: hidden;
+}
+.overflowx-scroll {
+ overflow-x: scroll;
+}
+.overflowx-visible {
+ overflow-x: visible;
+}
+.overflowy-auto {
+ overflow-y: auto;
+}
+.overflowy-hidden {
+ overflow-y: hidden;
+}
+.overflowy-scroll {
+ overflow-y: scroll;
+}
+.overflowy-visible {
+ overflow-y: visible;
+}
 
 background
 background-attachment
@@ -519,8 +732,6 @@ border-width
 bottom
 box-shadow
 box-sizing
-caption-side
-clear
 clip
 column-count
 column-gap
@@ -552,22 +763,13 @@ min-width
 opacity
 orphans
 outline
-outline-color
 outline-offset
-outline-style
 outline-width
-overflow
-overflow-x
-overflow-y
 padding
 padding-bottom
 padding-left
 padding-right
 padding-top
-page-break-after
-page-break-before
-page-break-inside
-position
 quotes
 right
 tab-size
