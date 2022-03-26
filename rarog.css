@@ -692,6 +692,168 @@ table {
 .overflowy-visible {
  overflow-y: visible;
 }
+.tablelayout-auto {
+ table-layout: auto;
+}
+.tablelayout-fixed {
+ table-layout: fixed;
+}
+.tablelayout-inherit {
+ table-layout: inherit;
+}
+.textalign-center {
+ text-align: center;
+}
+.textalign-justify {
+ text-align: justify;
+}
+.textalign-left {
+ text-align: left;
+}
+.textalign-right {
+ text-align: right;
+}
+.textalign-start {
+ text-align: start;
+}
+.textalign-end {
+ text-align: end;
+}
+.textalignlast-center {
+ text-align-last: center;
+}
+.textalignlast-justify {
+ text-align-last: justify;
+}
+.textalignlast-left {
+ text-align-last: left;
+}
+.textalignlast-right {
+ text-align-last: right;
+}
+.textalignlast-start {
+ text-align-last: start;
+}
+.textalignlast-end {
+ text-align-last: end;
+}
+.textdecoration-blink {
+ text-decoration: blink;
+}
+.textdecoration-linethrough {
+ text-decoration: line-through;
+}
+.textdecoration-overline {
+ text-decoration: overline;
+}
+.textdecoration-underline {
+ text-decoration: underline;
+}
+.textdecoration-none {
+ text-decoration: none;
+}
+.textdecoration-inherit {
+ text-decoration: inherit;
+}
+.textdecorationcolor-white {
+ text-decoration-color: #ffffff;
+}
+.textdecorationcolor-silver {
+ text-decoration-color: #c0c0c0;
+}
+.textdecorationcolor-gray {
+ text-decoration-color: #808080;
+}
+.textdecorationcolor-black {
+ text-decoration-color: #000000;
+}
+.textdecorationcolor-maroon {
+ text-decoration-color: #800000;
+}
+.textdecorationcolor-red {
+ text-decoration-color: #ff0000;
+}
+.textdecorationcolor-orange {
+ text-decoration-color: #ffa500;
+}
+.textdecorationcolor-yellow {
+ text-decoration-color: #ffff00;
+}
+.textdecorationcolor-olive {
+ text-decoration-color: #808000;
+}
+.textdecorationcolor-lime {
+ text-decoration-color: #00ff00;
+}
+.textdecorationcolor-green {
+ text-decoration-color: #008000;
+}
+.textdecorationcolor-aqua {
+ text-decoration-color: #00ffff;
+}
+.textdecorationcolor-blue {
+ text-decoration-color: #0000ff;
+}
+.textdecorationcolor-navy {
+ text-decoration-color: #000080;
+}
+.textdecorationcolor-teal {
+ text-decoration-color: #008080;
+}
+.textdecorationcolor-fuchsia {
+ text-decoration-color: #ff00ff;
+}
+.textdecorationcolor-purple {
+ text-decoration-color: #800080;
+}
+.textdecorationline-linethrough {
+ text-decoration-line: line-through;
+}
+.textdecorationline-overline {
+ text-decoration-line: overline;
+}
+.textdecorationline-underline {
+ text-decoration-line: underline;
+}
+.textdecorationline-none {
+ text-decoration-line: none;
+}
+.textdecorationstyle-solid {
+ text-decoration-style: solid;
+}
+.textdecorationstyle-double {
+ text-decoration-style: double;
+}
+.textdecorationstyle-dotted {
+ text-decoration-style: dotted;
+}
+.textdecorationstyle-dashed {
+ text-decoration-style: dashed;
+}
+.textdecorationstyle-wavy {
+ text-decoration-style: wavy;
+}
+.textoverflow-clip {
+ text-overflow: clip;
+}
+.textoverflow-ellipsis {
+ text-overflow: ellipsis;
+}
+.texttransform-capitalize {
+ text-transform: capitalize;
+}
+.texttransform-lowercase {
+ text-transform: lowercase;
+}
+.texttransform-uppercase {
+ text-transform: uppercase;
+}
+.texttransform-none {
+ text-transform: none;
+}
+.texttransform-inherit {
+ text-transform: inherit;
+}
 
 background
 background-attachment
@@ -773,17 +935,8 @@ padding-top
 quotes
 right
 tab-size
-table-layout
-text-align
-text-align-last
-text-decoration
-text-decoration-color
-text-decoration-line
-text-decoration-style
 text-indent
-text-overflow
 text-shadow
-text-transform
 top
 transform
 transform-origin
