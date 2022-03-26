@@ -228,6 +228,99 @@ table {
 .emptycells-hide {
  empty-cells: hide;
 }
+.unicodebidi-normal {
+ unicode-bidi: normal;
+}
+.unicodebidi-embed {
+ unicode-bidi: embed;
+}
+.unicodebidi-override {
+ unicode-bidi: bidi-override;
+}
+.unicodebidi-inherit {
+ unicode-bidi: inherit;
+}
+.visibility-visible {
+ visibility: visible;
+}
+.visibility-hidden {
+ visibility: hidden;
+}
+.visibility-collapse {
+ visibility: collapse;
+}
+.visibility-inherit {
+ visibility: inherit;
+}
+.writingmode-lrtb {
+ writing-mode: lr-tb;
+}
+.writingmode-rltb {
+ writing-mode: rl-tb;
+}
+.writingmode-tbrl {
+ writing-mode: tb-rl;
+}
+.writingmode-btrl {
+ writing-mode: bt-rl;
+}
+.writingmode-tblr {
+ writing-mode: tb-lr;
+}
+.writingmode-btlr {
+ writing-mode: bt-lr;
+}
+.wordwrap-normal {
+ word-wrap: normal;
+}
+.wordwrap-breakword {
+ word-wrap: break-word;
+}
+.wordwrap-inherit {
+ word-wrap: inherit;
+}
+.whitespace-normal {
+ white-space: normal;
+}
+.whitespace-nowrap {
+ white-space: nowrap;
+}
+.whitespace-pre {
+ white-space: pre;
+}
+.whitespace-preline {
+ white-space: pre-line;
+}
+.whitespace-prewrap {
+ white-space: pre-wrap;
+}
+.whitespace-inherit {
+ white-space: inherit;
+}
+.wordbreak-normal {
+ word-break: normal;
+}
+.wordbreak-breakall {
+ word-break: break-all;
+}
+.wordbreak-keepall {
+ word-break: keep-all;
+}
+.resize-none {
+ resize: none;
+}
+.resize-both {
+ resize: both;
+}
+.resize-horizontal {
+ resize: horizontal;
+}
+.resize-vertical {
+ resize: vertical;
+}
+.resize-inherit {
+ resize: inherit;
+}
 
 background
 background-attachment
@@ -325,7 +418,6 @@ page-break-before
 page-break-inside
 position
 quotes
-resize
 right
 tab-size
 table-layout
@@ -347,14 +439,8 @@ transition-delay
 transition-duration
 transition-property
 transition-timing-function
-unicode-bidi
 vertical-align
-visibility
-white-space
 widows
 width
-word-break
 word-spacing
-word-wrap
-writing-mode
 z-index
