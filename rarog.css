@@ -890,6 +890,48 @@ table {
 .boxsizing- {
  box-sizing:
 }
+.msinterpolationmode- {
+ -ms-interpolation-mode:
+}
+.scrollbar3dlightcolor- {
+ scrollbar-3dlight-color:
+}
+.scrollbararrowcolor- {
+ scrollbar-arrow-color:
+}
+.scrollbarbasecolor- {
+ scrollbar-base-color:
+}
+.scrollbardarkshadowcolor- {
+ scrollbar-darkshadow-color:
+}
+.scrollbarfacecolor- {
+ scrollbar-face-color:
+}
+.scrollbarhighlightcolor- {
+ scrollbar-highlight-color:
+}
+.scrollbarshadowcolor- {
+ scrollbar-shadow-color:
+}
+.scrollbartrackcolor- {
+ scrollbar-track-color:
+}
+.mozorient- {
+ -moz-orient:
+}
+.mozuserselect- {
+ -moz-user-select:
+}
+.imagerendering- {
+ image-rendering:
+}
+.oobjectfit- {
+ -o-object-fit:
+}
+.webkituserselect- {
+ -webkit-user-select:
+}
 
 background
 background-attachment
@@ -977,39 +1019,25 @@ width
 word-spacing
 z-index
 
--ms-interpolation-mode
 -ms-linear-gradient
 -ms-radial-gradient
 background-position-x
 background-position-y
 filter
 hasLayout
-scrollbar-3dlight-color
-scrollbar-arrow-color
-scrollbar-base-color
-scrollbar-darkshadow-color
-scrollbar-face-color
-scrollbar-highlight-color
-scrollbar-shadow-color
-scrollbar-track-color
 zoom
 -moz-border-bottom-colors
 -moz-border-left-colors
 -moz-border-right-colors
 -moz-border-top-colors
 -moz-linear-gradient
--moz-orient
 -moz-radial-gradient
--moz-user-select
 :-moz-placeholder
 ::-moz-selection
-image-rendering
 -o-linear-gradient
--o-object-fit
 -o-radial-gradient
 -webkit-linear-gradient
 -webkit-radial-gradient
--webkit-user-select
 
 @font-face
 @import
