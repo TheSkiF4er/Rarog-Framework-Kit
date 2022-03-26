@@ -399,29 +399,83 @@ table {
 .fontweight-100 {
  font-weight: 100;
 }
-.fontweight- {
+.fontweight-200 {
  font-weight: 200;
 }
-.fontweight- {
+.fontweight-300 {
  font-weight: 300;
 }
-.fontweight- {
+.fontweight-400 {
  font-weight: 400;
 }
-.fontweight- {
+.fontweight-500 {
  font-weight: 500;
 }
-.fontweight- {
+.fontweight-600 {
  font-weight: 600;
 }
-.fontweight- {
+.fontweight-700 {
  font-weight: 700;
 }
-.fontweight- {
+.fontweight-800 {
  font-weight: 800;
 }
-.fontweight- {
+.fontweight-900 {
  font-weight: 900;
+}
+.liststyleposition-inside {
+ list-style-position: inside;
+}
+.liststyleposition-outside {
+ list-style-position: outside;
+}
+.liststyletype-circle {
+ list-style-type: circle;
+}
+.liststyletype-disc {
+ list-style-type: disc;
+}
+.liststyletype-square {
+ list-style-type: square;
+}
+.liststyletype-armenian {
+ list-style-type: Armenian;
+}
+.liststyletype-decimal {
+ list-style-type: decimal;
+}
+.liststyletype-decimalleadingzero {
+ list-style-type: decimal-leading-zero;
+}
+.liststyletype-georgian {
+ list-style-type: georgian;
+}
+.liststyletype-loweralpha {
+ list-style-type: lower-alpha;
+}
+.liststyletype-lowergreek {
+ list-style-type: lower-greek;
+}
+.liststyletype-lowerlatin {
+ list-style-type: lower-latin;
+}
+.liststyletype-lowerroman {
+ list-style-type: lower-roman;
+}
+.liststyletype-upperalpha {
+ list-style-type: upper-alpha;
+}
+.liststyletype-upperlatin {
+ list-style-type: upper-latin;
+}
+.liststyletype-upperroman {
+ list-style-type: upper-roman;
+}
+.liststyletype-none {
+ list-style-type: none;
+}
+.liststyletype-inherit {
+ list-style-type: inherit;
 }
 
 background
@@ -484,8 +538,6 @@ letter-spacing
 line-height
 list-style
 list-style-image
-list-style-position
-list-style-type
 margin
 margin-bottom
 margin-left
