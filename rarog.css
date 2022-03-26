@@ -854,6 +854,42 @@ table {
 .texttransform-inherit {
  text-transform: inherit;
 }
+.bordercollapse-collapse {
+ border-collapse: collapse;
+}
+.bordercollapse-separate {
+ border-collapse: separate;
+}
+.bordercollapse-inherit {
+ border-collapse: inherit;
+}
+.borderbottomstyle- {
+ border-bottom-style: 
+}
+.borderbottomcolor- {
+ border-bottom-color:
+}
+.borderleftcolor- {
+ border-left-color:
+}
+.borderleftstyle- {
+ border-left-style:
+}
+.borderrightcolor- {
+ border-right-color:
+}
+.borderrightstyle- {
+ border-right-style:
+}
+.bordertopcolor- {
+ border-top-color:
+}
+.bordertopstyle- {
+ border-top-style:
+}
+.boxsizing- {
+ box-sizing:
+}
 
 background
 background-attachment
@@ -865,35 +901,25 @@ background-repeat
 background-size
 border
 border-bottom
-border-bottom-color
 border-bottom-left-radius
 border-bottom-right-radius
-border-bottom-style
 border-bottom-width
-border-collapse
 border-color
 border-image
 border-left
-border-left-color
-border-left-style
 border-left-width
 border-radius
 border-right
-border-right-color
-border-right-style
 border-right-width
 border-spacing
 border-style
 border-top
-border-top-color
 border-top-left-radius
 border-top-right-radius
-border-top-style
 border-top-width
 border-width
 bottom
 box-shadow
-box-sizing
 clip
 column-count
 column-gap
