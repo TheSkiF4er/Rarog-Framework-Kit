@@ -13,6 +13,8 @@
  Внешнее подключение: https://skif4er.ru/osp/rarogcss
 ============================================================================
 */
+@charset "utf-8";
+
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
  margin: 0;
  padding: 0;
@@ -593,3 +595,42 @@ widows
 width
 word-spacing
 z-index
+
+-ms-interpolation-mode
+-ms-linear-gradient
+-ms-radial-gradient
+background-position-x
+background-position-y
+filter
+hasLayout
+scrollbar-3dlight-color
+scrollbar-arrow-color
+scrollbar-base-color
+scrollbar-darkshadow-color
+scrollbar-face-color
+scrollbar-highlight-color
+scrollbar-shadow-color
+scrollbar-track-color
+zoom
+-moz-border-bottom-colors
+-moz-border-left-colors
+-moz-border-right-colors
+-moz-border-top-colors
+-moz-linear-gradient
+-moz-orient
+-moz-radial-gradient
+-moz-user-select
+:-moz-placeholder
+::-moz-selection
+image-rendering
+-o-linear-gradient
+-o-object-fit
+-o-radial-gradient
+-webkit-linear-gradient
+-webkit-radial-gradient
+-webkit-user-select
+
+@font-face
+@import
+@media
+@page
