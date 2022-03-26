@@ -102,61 +102,61 @@ table {
 .color-inherit {
  color: inherit;
 }
-.bg-color-white {
+.bgcolor-white {
  color: #ffffff;
 }
-.bg-color-silver {
+.bgcolor-silver {
  color: #c0c0c0;
 }
-.bg-color-gray {
+.bgcolor-gray {
  color: #808080;
 }
-.bg-color-black {
+.bgcolor-black {
  color: #000000;
 }
-.bg-color-maroon {
+.bgcolor-maroon {
  color: #800000;
 }
-.bg-color-red {
+.bgcolor-red {
  color: #ff0000;
 }
-.bg-color-orange {
+.bgcolor-orange {
  color: #ffa500;
 }
-.bg-color-yellow {
+.bgcolor-yellow {
  color: #ffff00;
 }
-.bg-color-olive {
+.bgcolor-olive {
  color: #808000;
 }
-.bg-color-lime {
+.bgcolor-lime {
  color: #00ff00;
 }
-.bg-color-green {
+.bgcolor-green {
  color: #008000;
 }
-.bg-color-aqua {
+.bgcolor-aqua {
  color: #00ffff;
 }
-.bg-color-blue {
+.bgcolor-blue {
  color: #0000ff;
 }
-.bg-color-navy {
+.bgcolor-navy {
  color: #000080;
 }
-.bg-color-teal {
+.bgcolor-teal {
  color: #008080;
 }
-.bg-color-fuchsia {
+.bgcolor-fuchsia {
  color: #ff00ff;
 }
-.bg-color-purple {
+.bgcolor-purple {
  color: #800080;
 }
-.bg-color-transparent {
+.bgcolor-transparent {
  color: transparent;
 }
-.bg-color-inherit {
+.bgcolor-inherit {
  color: inherit;
 }
 .cursor-auto {
@@ -321,6 +321,108 @@ table {
 .resize-inherit {
  resize: inherit;
 }
+.float-left {
+ float: left;
+}
+.float-right {
+ float: right;
+}
+.float-none {
+ float: none;
+}
+.float-inherit {
+ float: inherit;
+}
+.fontstyle-normal {
+ font-style: normal;
+}
+.fontstyle-italic {
+ font-style: italic;
+}
+.fontstyle-oblique {
+ font-style: oblique;
+}
+.fontstyle-inherit {
+ font-style: inherit;
+}
+.fontstretch-inherit {
+ font-stretch: inherit;
+}
+.fontstretch-ultracondensed {
+ font-stretch: ultra-condensed;
+}
+.fontstretch-extracondensed {
+ font-stretch: extra-condensed;
+}
+.fontstretch-condensed {
+ font-stretch: condensed;
+}
+.fontstretch-semicondensed {
+ font-stretch: semi-condensed;
+}
+.fontstretch-normal {
+ font-stretch: normal;
+}
+.fontstretch-semiexpanded {
+ font-stretch: semi-expanded;
+}
+.fontstretch-expanded {
+ font-stretch: expanded;
+}
+.fontstretch-extraexpanded {
+ font-stretch: extra-expanded;
+}
+.fontstretch-ultraexpanded {
+ font-stretch: ultra-expanded;
+}
+.fontvariant-normal {
+ font-variant: normal;
+}
+.fontvariant-smallcaps {
+ font-variant: small-caps;
+}
+.fontvariant-inherit {
+ font-variant: inherit;
+}
+.fontweight-bold {
+ font-weight: bold;
+}
+.fontweight-lighter {
+ font-weight: lighter;
+}
+.fontweight-normal {
+ font-weight: normal;
+}
+.fontweight-bolder {
+ font-weight: bolder;
+}
+.fontweight-100 {
+ font-weight: 100;
+}
+.fontweight- {
+ font-weight: 200;
+}
+.fontweight- {
+ font-weight: 300;
+}
+.fontweight- {
+ font-weight: 400;
+}
+.fontweight- {
+ font-weight: 500;
+}
+.fontweight- {
+ font-weight: 600;
+}
+.fontweight- {
+ font-weight: 700;
+}
+.fontweight- {
+ font-weight: 800;
+}
+.fontweight- {
+ font-weight: 900;
+}
 
 background
 background-attachment
@@ -373,14 +475,9 @@ content
 counter-increment
 counter-reset
 display
-float
 font
 font-family
 font-size
-font-stretch
-font-style
-font-variant
-font-weight
 height
 left
 letter-spacing
