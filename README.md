@@ -56,7 +56,7 @@ Cajeer Engine Kit 3 - https://cajeer.ru/cek/demo/
 <br>**PHP:**
 ```php
 <?php
- include 'skin/rarog.min.php';
+ include_once 'rarog.min.php';
 ?>
 ```
 ### Удалённое подключение
@@ -75,7 +75,7 @@ Cajeer Engine Kit 3 - https://cajeer.ru/cek/demo/
 <br>**PHP:**
 ```php
 <?php
- include 'https://skif4er.ru/osp/rarogphp';
+ include_once 'https://skif4er.ru/osp/rarogphp';
 ?>
 ```
 
